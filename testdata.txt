@@ -1,2 +1,2 @@
-
+//----- expected condition----//
 ExpectedCondition<WebElement> waitFortext = ExpectedConditions.visibilityOf(DifferentAddresstext);
